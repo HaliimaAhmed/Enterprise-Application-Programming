@@ -9,7 +9,7 @@
   <artifactId>employeeDirectory_JSF_EJBs_JPA_Bootstrap</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>040825884_Assignment2_HaliimaAhmed</name>
+  <name>Employee Directory</name>
   <description>JSF Employee Directory with EJBs and JPA</description>
   
   <properties>
