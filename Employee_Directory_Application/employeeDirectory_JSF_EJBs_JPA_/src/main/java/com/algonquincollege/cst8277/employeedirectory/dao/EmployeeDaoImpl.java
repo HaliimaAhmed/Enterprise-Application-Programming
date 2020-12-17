@@ -1,10 +1,5 @@
-/***************************************************************************f******************u************zz*******y**
+/***
  * File: EmployeeDaoImpl.java
- * Course materials (20W) CST 8277
- *
- * @author (original) Mike Norman
- * @author student name: Haliima Ahmed 
- * Student number: 040825884
  * Date:Febuary 21,2020
  */
 package com.algonquincollege.cst8277.employeedirectory.dao;
@@ -28,7 +23,7 @@ import com.algonquincollege.cst8277.employeedirectory.model.EmployeePojo;
 @Named
 @ApplicationScoped
 public class EmployeeDaoImpl implements EmployeeDao, Serializable {
-    /** explicitly set serialVersionUID */
+    /** set serialVersionUID */
     private static final long serialVersionUID = 1L;
 
     protected ServletContext sc;
